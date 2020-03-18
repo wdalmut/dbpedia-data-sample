@@ -1,0 +1,4 @@
+original/ filter=lfs diff=lfs merge=lfs -text
+transformed/ filter=lfs diff=lfs merge=lfs -text
+transformed/* filter=lfs diff=lfs merge=lfs -text
+original/* filter=lfs diff=lfs merge=lfs -text
